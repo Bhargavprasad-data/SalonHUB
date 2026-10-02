@@ -4,12 +4,12 @@ A full-stack web application for salon services and product marketplace. Users c
 
 ## Features
 
-- **User Authentication**: Secure login and registration for users and administrators
-- **Marketplace**: Buy and sell salon products and services
-- **Help System**: Request and manage help requests
-- **Admin Dashboard**: Comprehensive admin panel for user management and file handling
-- **File Uploads**: Support for image uploads for products and profiles
-- **Responsive Design**: Mobile-friendly interface
+- **User Authentication**: Secure login and registration for users and administrators.
+- **Marketplace**: Buy and sell salon products and services.
+- **Help System**: Request and manage help requests.
+- **Admin Dashboard**: Comprehensive admin panel for user management and file handling.
+- **File Uploads**: Support for image uploads for products and profiles.
+- **Responsive Design**: Mobile-friendly interface.
 
 ## Tech Stack
 
