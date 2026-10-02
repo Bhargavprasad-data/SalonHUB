@@ -10,7 +10,7 @@ A full-stack web application for salon services and product marketplace. Users c
 - **Admin Dashboard**: Comprehensive admin panel for user management and file handling.
 - **File Uploads**: Support for image uploads for products and profiles.
 - **Responsive Design**: Mobile-friendly interface.
-
+  
 ## Tech Stack
 
 ### Frontend
